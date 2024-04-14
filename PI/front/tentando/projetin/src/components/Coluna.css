@@ -1,0 +1,20 @@
+.coluna-lado {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+}
+
+.opcoes {
+    height: 200px;
+    width: 100%;
+    background-color: #BABABA;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.progress {
+    flex-grow: 1;
+    width: 100%;
+    background-color: #BABABA;
+    border-radius: 15px;
+}

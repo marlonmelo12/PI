@@ -1,0 +1,7 @@
+.home {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}

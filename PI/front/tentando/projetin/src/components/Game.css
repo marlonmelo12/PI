@@ -1,0 +1,36 @@
+
+.jogo {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    height: 600px;
+    margin-right: 10px;
+    border-radius: 15px;
+    background-color: #BABABA;
+}
+
+.jogo .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40%;
+    padding: 3vh;
+    background-color: antiquewhite;
+}
+
+.jogo .logo img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.pergunta {
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3vh;
+    color: aliceblue;
+    background-color: rgb(67, 109, 95);
+    border-radius: 15px;
+    border: 10px solid aquamarine;
+}
